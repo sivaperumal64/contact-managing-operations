@@ -1,0 +1,43 @@
+.container{
+  display: flex;
+  flex-direction: column;
+ padding-top: 50px;
+  width: 1200px;
+  height: 800px;
+  border-radius: 15px inherit black;
+  padding-left: 200px;
+  background-color: whitesmoke;
+  border: 1px solid black;
+  margin-left: 50px;
+}
+
+input{
+  width: 850px;
+  height:40px;
+  border-style: inset;
+  border-radius: 10px;
+  color: ;
+}
+
+button{
+  background-color: rgba(21, 21, 196, 0.76);
+  color: aliceblue;
+  width: 100px;
+  height: 30px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  cursor: pointer;
+}
+
+h2{
+  padding-left: 600px;
+  color: azure;
+  font-size: larger;
+
+}
+
+body{
+  background-color: black;
+}
+
+
